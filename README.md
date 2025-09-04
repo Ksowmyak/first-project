@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ksowmya 
+# 👋 Hi, I'm K.Sowmya 
 
 🎓 Passionate about **Full Stack Development | Machine Learning | Django**  
 💡 Currently learning and building projects in **Python, Django, and Deep Learning**  
