@@ -36,5 +36,7 @@ A project integrating **machine learning and deep learning** for weather predict
 - 📧 Email: [ksowmyak323@gmail.com]  
 
 ---
+https://media.giphy.com/media/yourgiflink.gif
+
 ⭐ *Thanks for visiting my profile! Feel free to connect and collaborate.*  
 
