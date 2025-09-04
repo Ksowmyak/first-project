@@ -7,9 +7,9 @@
 
 ## 🔧 Skills & Tools
 - **Languages**: Python, Java, JavaScript, SQL  
-- **Frameworks**: Django, React, Node.js  
-- **Databases**: SQLite, MySQL, PostgreSQL  
-- **Tools**: Git, VS Code, Jupyter, Docker  
+- **Frameworks**: Django, React 
+- **Databases**: SQLite, MySQL  
+- **Tools**: Git, VS Code  
 
 ---
 
@@ -36,7 +36,5 @@ A project integrating **machine learning and deep learning** for weather predict
 - 📧 Email: [ksowmyak323@gmail.com]  
 
 ---
-https://media.giphy.com/media/yourgiflink.gif
-
 ⭐ *Thanks for visiting my profile! Feel free to connect and collaborate.*  
 
