@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ksowmyak  
+# 👋 Hi, I'm Ksowmya 
 
 🎓 Passionate about **Full Stack Development | Machine Learning | Django**  
 💡 Currently learning and building projects in **Python, Django, and Deep Learning**  
@@ -31,8 +31,8 @@ A project integrating **machine learning and deep learning** for weather predict
 ---
 
 ## 🌐 Connect With Me
-- 🌍 Portfolio/Website: [your-website-link-here]  
-- 💼 LinkedIn: [your-linkedin-profile-here]  
+- 🌍 Portfolio/Website: [ksowmyak.github.io](https://ksowmyak.github.io)]  
+- 💼 LinkedIn: [www.linkedin.com/in/K-sowmya-9585233]]  
 - 📧 Email: [ksowmyak323@gmail.com]  
 
 ---
